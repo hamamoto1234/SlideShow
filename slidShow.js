@@ -1,24 +1,24 @@
 let count = 0;
 const mainElement = document.querySelector("div.main>img");
 const url = [
-'https://m.hanshintigers.jp/images/profile_2021/19.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/16.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/27.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/46.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/37.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/50.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/3.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/2.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/8.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/31.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/33.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/51.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/5.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/52.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/7.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/24.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/55.jpg',
-'https://m.hanshintigers.jp/images/profile_2021/00.jpg'
+"https://m.hanshintigers.jp/images/profile_2021/19.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/16.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/27.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/46.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/37.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/50.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/3.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/2.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/8.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/31.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/33.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/51.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/5.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/52.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/7.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/24.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/55.jpg",
+"https://m.hanshintigers.jp/images/profile_2021/00.jpg"
 ];
 
 function left() {
